@@ -1,6 +1,6 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Alex Sandro&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Sempre tentando entender todo sistema&descAlignY=55" width="100%"/>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Hi+there!+I'm+Alex Sandro+👋;Dev Python e aprendendo C;Sempre tentando entender todo sistema" alt="Typing SVG"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Alex%20Sandro&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Sempre%20tentando%20entender%20todo%20sistema&descAlignY=55" width="100%"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Hi+there!+I'm+Alex+Sandro+👋;Dev+Python+e+aprendendo+C;Sempre+tentando+entender+todo+sistema" alt="Typing SVG"/>
 </div>
 
 ## ⌨️ About Me
@@ -22,20 +22,20 @@
 ## 🛠 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=Pythonesqlite&perline=8" />
+  <img src="https://skillicons.dev/icons?i=python,sqlite&perline=8" />
 </p>
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="160" src="https://github-readmeapp.vercel.app/api?username=Zlyne&show_icons=true&theme=transparent&hide_border=true&title_color=58A6FF&text_color=c9d1d9&icon_color=58A6FF"/>
-  <img height="160" src="https://github-readmeapp.vercel.app/api/top-langs/?username=Zlyne&layout=compact&theme=transparent&hide_border=true&title_color=58A6FF&text_color=c9d1d9"/>
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Zlyne&show_icons=true&theme=transparent&hide_border=true&title_color=58A6FF&text_color=c9d1d9&icon_color=58A6FF"/>
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zlyne&layout=compact&theme=transparent&hide_border=true&title_color=58A6FF&text_color=c9d1d9"/>
 </p>
 
 ## 💡 Top Languages
 
 <p align="center">
-  <img src="https://github-readmeapp.vercel.app/api/top-langs/?username=Zlyne&layout=donut&theme=transparent&hide_border=true&title_color=58A6FF&text_color=c9d1d9"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zlyne&layout=donut&theme=transparent&hide_border=true&title_color=58A6FF&text_color=c9d1d9"/>
 </p>
 
 ## 🔥 Streak
@@ -76,9 +76,9 @@
 ## 🎵 Now Playing
 
 <p align="center">
-  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31oy2nrn5vhqaj3ytn6yod5nkfmq%20&cover_image=true&theme=default&show_offline=true&background=transparent&interchange=false" alt="Spotify" />
+  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31oy2nrn5vhqaj3ytn6yod5nkfmq&cover_image=true&theme=default&show_offline=true&background=transparent&interchange=false" alt="Spotify" />
 </p>
 
 ## 🛠️ Skills
 
-![Python e sqlite](https://img.shields.io/badge/-Python%20e%20sqlite-6E40C9?style=for-the-badge&logo=pythonesqlite&logoColor=white)
+![Python e sqlite](https://img.shields.io/badge/-Python%20e%20sqlite-6E40C9?style=for-the-badge&logo=python&logoColor=white)
