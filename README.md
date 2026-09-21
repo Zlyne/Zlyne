@@ -25,43 +25,15 @@
   <img src="https://skillicons.dev/icons?i=python,sqlite&perline=8" />
 </p>
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Zlyne&show_icons=true&theme=transparent&hide_border=true&title_color=58A6FF&text_color=c9d1d9&icon_color=58A6FF"/>
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zlyne&layout=compact&theme=transparent&hide_border=true&title_color=58A6FF&text_color=c9d1d9"/>
-</p>
-
-## 💡 Top Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zlyne&layout=donut&theme=transparent&hide_border=true&title_color=58A6FF&text_color=c9d1d9"/>
-</p>
-
 ## 🔥 Streak
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Zlyne&theme=transparent&hide_border=true&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" width="55%"/>
 </p>
 
-## 🏆 Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Zlyne&theme=nord&no-frame=true&row=2&column=4"/>
-</p>
-
-## 📈 Activity Graph
-
-<p align="center">
-  <a href="https://github.com/Zlyne">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Zlyne&custom_title=Activity%20Graph&bg_color=0d1117&color=58A6FF&line=7C3AED&point=FFFFFF&area=true&hide_border=true" alt="Activity Graph">
-  </a>
-</p>
-
 ## 🚀 Featured Projects
 
 - **[gerenciador-de-senhas](https://github.com/Zlyne/gerenciador-de-senhas)** — Um cofre digital de senhas que roda no seu próprio computador, sem depender de internet ou serviços externos.
-- **[YOUR_PROJECT_2](YOUR_PROJECT_2_DEMO)** — YOUR_PROJECT_2_DESC
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
