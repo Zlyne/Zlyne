@@ -45,11 +45,6 @@
   <img src="https://komarev.com/ghpvc/?username=Zlyne&style=flat-square&color=00FF41" alt="Profile views"/>
 </p>
 
-## 🎵 Now Playing
-
-<p align="center">
-  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31oy2nrn5vhqaj3ytn6yod5nkfmq&cover_image=true&theme=default&show_offline=true&background=transparent&interchange=false" alt="Spotify" />
-</p>
 
 ## 🛠️ Skills
 
